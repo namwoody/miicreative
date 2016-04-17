@@ -1,0 +1,67 @@
+#footer {
+	background-color:#d9d9d9;
+	_height:200px;
+	margin-bottom:20px;
+
+#footer-logo {
+	
+	margin-top:30px;
+}
+
+
+}
+
+#footer-navigation {
+
+margin-left:20px;	
+
+ul	{
+	list-style:none;
+
+li {
+	padding:5px;
+	}
+ }
+
+ 
+
+
+ }
+
+ #footer-content {
+  margin-top:30px;
+ }
+
+ .business-info {
+
+ span {
+ display:block;
+ font-weight:500;
+ font-size:1.2em;
+ }
+ }
+
+
+
+
+
+ #footer-bottom {
+ text-align:center;
+ }
+
+
+
+@media screen and (max-width: 780px) {
+	
+
+#footer-logo {
+	display:none;
+}
+
+
+}
+
+
+
+
+
