@@ -20,9 +20,6 @@ use Roots\Sage\Wrapper;
     ?>
   
       <div class="container" id="content">
-
-d
-
        
           <?php include Wrapper\template_path(); ?>
       
